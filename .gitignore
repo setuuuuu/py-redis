@@ -1,0 +1,12 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE folders
+.vscode/
+.idea/
+
+# Database files - do not upload data to GitHub!
+appendonly.aof
+*.rdb
